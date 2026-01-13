@@ -1,2 +1,2 @@
-# odin_landing_page
-Landing page assignment from T O P
+# Odin-Landing_Page
+My First landing page built while completing The Odin Project Foundations.
